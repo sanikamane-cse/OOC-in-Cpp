@@ -36,6 +36,7 @@ int main() {
     cout << "Name: Sanika Anil Mane\n";
     cout << "Roll No: 96\n";
     cout << "Division: B\n";
+    cout<<"Class: SY-CSE\n";
     cout << "---------------------------------\n";
 
     // Creating object of subclass will invoke base class constructors
@@ -51,6 +52,7 @@ int main() {
 Name: Sanika Anil Mane
 Roll No: 96
 Division: B
+Class: SY-CSE
 ---------------------------------
 This is a vehicle
 Fare of Vehicle
